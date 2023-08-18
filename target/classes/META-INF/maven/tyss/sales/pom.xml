@@ -89,7 +89,7 @@
         <version>3.1.2</version>
         <configuration>
           <suiteXmlFiles>
-            <suiteXmlFile>smokeGroup.xml</suiteXmlFile>
+            <suiteXmlFile>smokeGroupP.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
       </plugin>     
