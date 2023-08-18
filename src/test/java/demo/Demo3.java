@@ -1,7 +1,11 @@
 package demo;
 
+import org.testng.annotations.Test;
+
 public class Demo3 {
-	public static void main(String[] args) {
+        @Test
+        public void demo3()
+        {
 		System.out.println("*************");
 		System.out.println("hahaha");
 	}
